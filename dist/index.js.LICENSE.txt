@@ -1,0 +1,5 @@
+/**
+ * @license
+ * often-regexp <https://www.npmjs.com/package/ofregexp/>
+ * Copyright 胡雪峰
+ */
